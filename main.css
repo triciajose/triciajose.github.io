@@ -1,0 +1,150 @@
+body {
+	background-image: url("images/studying2.png") !important;
+	width: 100%;
+}
+
+#logo h1{
+	font-size: 300%;
+	color: white !important;
+	vertical-align: middle;
+	padding: 290px 0 0;
+	font-family: 'Lato', sans-serif;
+}
+
+#logo p{
+	font-size: 200%;
+	color: white;
+	font-family: 'Lato', sans-serif;
+
+}
+
+#logo img{
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	/*max-width: 900px;*/
+}
+
+.title h1{
+	font-family: 'Grand Hotel', cursive;
+
+	font-size: 400%;
+	text-align: center;
+}
+#page1 {
+	height: 100%;
+}
+
+#page2 {
+	background-color: #8D3A61 !important;
+	/*background-image: url("images/sky.gif");*/
+	height:100%;
+} 
+
+.content p{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: white;
+	font-size: x-large;
+}
+
+#page2 h5{
+	font-family: 'Grand Hotel', cursive;
+	color: black;
+	font-size:200%;
+	text-align: center;
+}
+
+#page2 li{
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-size:medium;
+}
+
+#page3 {
+	height: 100%;
+	background-color: #FDF3E7 !important; 
+
+}
+
+#page3 h1{
+	color: #01142B !important;
+}
+
+#page3 img{
+	opacity: 0.6;
+}
+#page3 img:hover{
+	opacity: 1;
+}
+
+#page4{
+	height: 100%;
+	background-color: #595959 !important;
+}
+#page4 p{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: black;
+	font-size:90%;
+}
+
+#page4 li{
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	color: black;
+	font-size:90%;
+}
+
+#page4 h5{
+	font-family: 'Grand Hotel', cursive;
+	color: black;
+	font-size:x-large;
+	text-align: right;
+}
+
+#page5{
+	height: 100%;
+}
+h1 {
+	color: white !important;
+}
+
+#page5 img{
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;}
+
+.icons {
+	padding: 230px 0 0;
+}
+
+.sticky {  
+    position: fixed;  
+    width: 100%;  
+    left: 0;  
+    top: 0;  
+    z-index: 100;  
+    border-top: 0;  
+}  
+
+#namelogo {
+	max-width: 100px;
+	z-index: 120;
+}
+
+#modals h5{
+	font-family: 'Grand Hotel', cursive !important;
+	color: black;
+	font-size:x-large;
+	text-align: right;
+}
+
+.reveal-modal p{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: x-large;
+}
