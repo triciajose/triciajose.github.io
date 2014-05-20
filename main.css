@@ -23,9 +23,9 @@ body {
 }
 
 #namelogo img{
-	max-width: 110px;
+	max-width: 120px;
     position: fixed;  
-    left: 0;  
+    left: 1;  
     top: 0;  
     z-index: 120;  
 }
